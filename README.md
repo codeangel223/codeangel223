@@ -111,9 +111,6 @@ Application utilisant l’IA pour détecter les fruits sur une image uploadée p
 Une vraie expérience DevOps a été adoptée pour toutes ces applications, assurant une livraison continue et une gestion efficace des infrastructures.
 
 ---
-NB: je bosse en Entreprise depuis presque 2 ans, les projets en entreprise ne sont pas cités ici.
-
----
 Moussa Mallé
 - www.codeangel.pro
 - www.codeangel.pro/linkedin
