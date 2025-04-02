@@ -3,9 +3,9 @@ Je crée des applications web et mobile !
 
 Contact me
 
-[Mail](contact@codeangel.pro)
+[Mail](mailto:contact@codeangel.pro)
 
-[Linkedin](www.codeangel.pro/linkedin)
+[Linkedin](https://codeangel.pro/linkedin)
 
 # Mes Projets
 
@@ -115,7 +115,7 @@ NB: je bosse en Entreprise depuis presque 2 ans, les projets en entreprise ne so
 
 ---
 Moussa Mallé
-- [www.codeangel.pro](www.codeangel.pro)
+- www.codeangel.pro
 - www.codeangel.pro/linkedin
 - contact@codeangel.pro
 
